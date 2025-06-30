@@ -1,0 +1,2218 @@
+[
+  {
+    "id": "1",
+    "question": "Mercado 1 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.52"
+      },
+      {
+        "outcome": "B",
+        "price": "0.25"
+      },
+      {
+        "outcome": "C",
+        "price": "0.27"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "question": "Mercado 2 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.18"
+      },
+      {
+        "outcome": "B",
+        "price": "0.18"
+      },
+      {
+        "outcome": "C",
+        "price": "0.1"
+      },
+      {
+        "outcome": "D",
+        "price": "0.11"
+      },
+      {
+        "outcome": "E",
+        "price": "0.16"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "question": "Mercado 3 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.3"
+      },
+      {
+        "outcome": "B",
+        "price": "0.36"
+      },
+      {
+        "outcome": "C",
+        "price": "0.35"
+      },
+      {
+        "outcome": "D",
+        "price": "0.19"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "question": "Mercado 4 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.2"
+      },
+      {
+        "outcome": "B",
+        "price": "0.13"
+      },
+      {
+        "outcome": "C",
+        "price": "0.11"
+      },
+      {
+        "outcome": "D",
+        "price": "0.18"
+      },
+      {
+        "outcome": "E",
+        "price": "0.1"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "question": "Mercado 5 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.24"
+      },
+      {
+        "outcome": "B",
+        "price": "0.21"
+      },
+      {
+        "outcome": "C",
+        "price": "0.33"
+      },
+      {
+        "outcome": "D",
+        "price": "0.27"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "question": "Mercado 6 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.19"
+      },
+      {
+        "outcome": "B",
+        "price": "0.17"
+      },
+      {
+        "outcome": "C",
+        "price": "0.19"
+      },
+      {
+        "outcome": "D",
+        "price": "0.2"
+      },
+      {
+        "outcome": "E",
+        "price": "0.14"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "question": "Mercado 7 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.27"
+      },
+      {
+        "outcome": "B",
+        "price": "0.14"
+      },
+      {
+        "outcome": "C",
+        "price": "0.14"
+      },
+      {
+        "outcome": "D",
+        "price": "0.32"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "question": "Mercado 8 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.2"
+      },
+      {
+        "outcome": "B",
+        "price": "0.24"
+      },
+      {
+        "outcome": "C",
+        "price": "0.36"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "question": "Mercado 9 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.21"
+      },
+      {
+        "outcome": "B",
+        "price": "0.25"
+      },
+      {
+        "outcome": "C",
+        "price": "0.26"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "question": "Mercado 10 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.18"
+      },
+      {
+        "outcome": "B",
+        "price": "0.2"
+      },
+      {
+        "outcome": "C",
+        "price": "0.32"
+      },
+      {
+        "outcome": "D",
+        "price": "0.33"
+      },
+      {
+        "outcome": "E",
+        "price": "0.29"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "question": "Mercado 11 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.23"
+      },
+      {
+        "outcome": "B",
+        "price": "0.25"
+      },
+      {
+        "outcome": "C",
+        "price": "0.31"
+      },
+      {
+        "outcome": "D",
+        "price": "0.36"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "question": "Mercado 12 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.31"
+      },
+      {
+        "outcome": "B",
+        "price": "0.37"
+      },
+      {
+        "outcome": "C",
+        "price": "0.64"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "question": "Mercado 13 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.39"
+      },
+      {
+        "outcome": "B",
+        "price": "0.5"
+      },
+      {
+        "outcome": "C",
+        "price": "0.31"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "question": "Mercado 14 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.13"
+      },
+      {
+        "outcome": "B",
+        "price": "0.13"
+      },
+      {
+        "outcome": "C",
+        "price": "0.22"
+      },
+      {
+        "outcome": "D",
+        "price": "0.12"
+      },
+      {
+        "outcome": "E",
+        "price": "0.18"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "question": "Mercado 15 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.38"
+      },
+      {
+        "outcome": "B",
+        "price": "0.16"
+      },
+      {
+        "outcome": "C",
+        "price": "0.16"
+      },
+      {
+        "outcome": "D",
+        "price": "0.28"
+      },
+      {
+        "outcome": "E",
+        "price": "0.32"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "question": "Mercado 16 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.39"
+      },
+      {
+        "outcome": "B",
+        "price": "0.18"
+      },
+      {
+        "outcome": "C",
+        "price": "0.25"
+      },
+      {
+        "outcome": "D",
+        "price": "0.3"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "question": "Mercado 17 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.21"
+      },
+      {
+        "outcome": "B",
+        "price": "0.17"
+      },
+      {
+        "outcome": "C",
+        "price": "0.23"
+      },
+      {
+        "outcome": "D",
+        "price": "0.13"
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "question": "Mercado 18 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.19"
+      },
+      {
+        "outcome": "B",
+        "price": "0.28"
+      },
+      {
+        "outcome": "C",
+        "price": "0.23"
+      },
+      {
+        "outcome": "D",
+        "price": "0.22"
+      },
+      {
+        "outcome": "E",
+        "price": "0.15"
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "question": "Mercado 19 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.34"
+      },
+      {
+        "outcome": "B",
+        "price": "0.18"
+      },
+      {
+        "outcome": "C",
+        "price": "0.35"
+      },
+      {
+        "outcome": "D",
+        "price": "0.25"
+      },
+      {
+        "outcome": "E",
+        "price": "0.19"
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "question": "Mercado 20 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.21"
+      },
+      {
+        "outcome": "B",
+        "price": "0.16"
+      },
+      {
+        "outcome": "C",
+        "price": "0.28"
+      },
+      {
+        "outcome": "D",
+        "price": "0.26"
+      },
+      {
+        "outcome": "E",
+        "price": "0.18"
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "question": "Mercado 21 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.29"
+      },
+      {
+        "outcome": "B",
+        "price": "0.22"
+      },
+      {
+        "outcome": "C",
+        "price": "0.3"
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "question": "Mercado 22 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.28"
+      },
+      {
+        "outcome": "B",
+        "price": "0.33"
+      },
+      {
+        "outcome": "C",
+        "price": "0.22"
+      },
+      {
+        "outcome": "D",
+        "price": "0.23"
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "question": "Mercado 23 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.23"
+      },
+      {
+        "outcome": "B",
+        "price": "0.22"
+      },
+      {
+        "outcome": "C",
+        "price": "0.28"
+      },
+      {
+        "outcome": "D",
+        "price": "0.27"
+      },
+      {
+        "outcome": "E",
+        "price": "0.22"
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "question": "Mercado 24 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.5"
+      },
+      {
+        "outcome": "B",
+        "price": "0.52"
+      },
+      {
+        "outcome": "C",
+        "price": "0.34"
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "question": "Mercado 25 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.24"
+      },
+      {
+        "outcome": "B",
+        "price": "0.19"
+      },
+      {
+        "outcome": "C",
+        "price": "0.21"
+      },
+      {
+        "outcome": "D",
+        "price": "0.19"
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "question": "Mercado 26 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.41"
+      },
+      {
+        "outcome": "B",
+        "price": "0.25"
+      },
+      {
+        "outcome": "C",
+        "price": "0.4"
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "question": "Mercado 27 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.16"
+      },
+      {
+        "outcome": "B",
+        "price": "0.29"
+      },
+      {
+        "outcome": "C",
+        "price": "0.24"
+      },
+      {
+        "outcome": "D",
+        "price": "0.18"
+      },
+      {
+        "outcome": "E",
+        "price": "0.27"
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "question": "Mercado 28 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.12"
+      },
+      {
+        "outcome": "B",
+        "price": "0.12"
+      },
+      {
+        "outcome": "C",
+        "price": "0.19"
+      },
+      {
+        "outcome": "D",
+        "price": "0.25"
+      },
+      {
+        "outcome": "E",
+        "price": "0.11"
+      }
+    ]
+  },
+  {
+    "id": "29",
+    "question": "Mercado 29 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.34"
+      },
+      {
+        "outcome": "B",
+        "price": "0.27"
+      },
+      {
+        "outcome": "C",
+        "price": "0.4"
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "question": "Mercado 30 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.27"
+      },
+      {
+        "outcome": "B",
+        "price": "0.14"
+      },
+      {
+        "outcome": "C",
+        "price": "0.3"
+      }
+    ]
+  },
+  {
+    "id": "31",
+    "question": "Mercado 31 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.19"
+      },
+      {
+        "outcome": "B",
+        "price": "0.15"
+      },
+      {
+        "outcome": "C",
+        "price": "0.21"
+      },
+      {
+        "outcome": "D",
+        "price": "0.21"
+      },
+      {
+        "outcome": "E",
+        "price": "0.17"
+      }
+    ]
+  },
+  {
+    "id": "32",
+    "question": "Mercado 32 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.22"
+      },
+      {
+        "outcome": "B",
+        "price": "0.22"
+      },
+      {
+        "outcome": "C",
+        "price": "0.12"
+      },
+      {
+        "outcome": "D",
+        "price": "0.17"
+      },
+      {
+        "outcome": "E",
+        "price": "0.22"
+      }
+    ]
+  },
+  {
+    "id": "33",
+    "question": "Mercado 33 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.26"
+      },
+      {
+        "outcome": "B",
+        "price": "0.25"
+      },
+      {
+        "outcome": "C",
+        "price": "0.27"
+      }
+    ]
+  },
+  {
+    "id": "34",
+    "question": "Mercado 34 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.2"
+      },
+      {
+        "outcome": "B",
+        "price": "0.27"
+      },
+      {
+        "outcome": "C",
+        "price": "0.27"
+      },
+      {
+        "outcome": "D",
+        "price": "0.48"
+      }
+    ]
+  },
+  {
+    "id": "35",
+    "question": "Mercado 35 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.34"
+      },
+      {
+        "outcome": "B",
+        "price": "0.29"
+      },
+      {
+        "outcome": "C",
+        "price": "0.28"
+      }
+    ]
+  },
+  {
+    "id": "36",
+    "question": "Mercado 36 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.28"
+      },
+      {
+        "outcome": "B",
+        "price": "0.38"
+      },
+      {
+        "outcome": "C",
+        "price": "0.2"
+      }
+    ]
+  },
+  {
+    "id": "37",
+    "question": "Mercado 37 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.13"
+      },
+      {
+        "outcome": "B",
+        "price": "0.15"
+      },
+      {
+        "outcome": "C",
+        "price": "0.22"
+      },
+      {
+        "outcome": "D",
+        "price": "0.23"
+      },
+      {
+        "outcome": "E",
+        "price": "0.24"
+      }
+    ]
+  },
+  {
+    "id": "38",
+    "question": "Mercado 38 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.34"
+      },
+      {
+        "outcome": "B",
+        "price": "0.35"
+      },
+      {
+        "outcome": "C",
+        "price": "0.32"
+      }
+    ]
+  },
+  {
+    "id": "39",
+    "question": "Mercado 39 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.23"
+      },
+      {
+        "outcome": "B",
+        "price": "0.38"
+      },
+      {
+        "outcome": "C",
+        "price": "0.3"
+      }
+    ]
+  },
+  {
+    "id": "40",
+    "question": "Mercado 40 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.2"
+      },
+      {
+        "outcome": "B",
+        "price": "0.37"
+      },
+      {
+        "outcome": "C",
+        "price": "0.32"
+      }
+    ]
+  },
+  {
+    "id": "41",
+    "question": "Mercado 41 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.19"
+      },
+      {
+        "outcome": "B",
+        "price": "0.2"
+      },
+      {
+        "outcome": "C",
+        "price": "0.14"
+      },
+      {
+        "outcome": "D",
+        "price": "0.17"
+      },
+      {
+        "outcome": "E",
+        "price": "0.14"
+      }
+    ]
+  },
+  {
+    "id": "42",
+    "question": "Mercado 42 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.37"
+      },
+      {
+        "outcome": "B",
+        "price": "0.23"
+      },
+      {
+        "outcome": "C",
+        "price": "0.27"
+      },
+      {
+        "outcome": "D",
+        "price": "0.42"
+      }
+    ]
+  },
+  {
+    "id": "43",
+    "question": "Mercado 43 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.35"
+      },
+      {
+        "outcome": "B",
+        "price": "0.23"
+      },
+      {
+        "outcome": "C",
+        "price": "0.36"
+      }
+    ]
+  },
+  {
+    "id": "44",
+    "question": "Mercado 44 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.44"
+      },
+      {
+        "outcome": "B",
+        "price": "0.26"
+      },
+      {
+        "outcome": "C",
+        "price": "0.3"
+      },
+      {
+        "outcome": "D",
+        "price": "0.3"
+      }
+    ]
+  },
+  {
+    "id": "45",
+    "question": "Mercado 45 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.48"
+      },
+      {
+        "outcome": "B",
+        "price": "0.32"
+      },
+      {
+        "outcome": "C",
+        "price": "0.47"
+      }
+    ]
+  },
+  {
+    "id": "46",
+    "question": "Mercado 46 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.26"
+      },
+      {
+        "outcome": "B",
+        "price": "0.35"
+      },
+      {
+        "outcome": "C",
+        "price": "0.18"
+      },
+      {
+        "outcome": "D",
+        "price": "0.17"
+      },
+      {
+        "outcome": "E",
+        "price": "0.35"
+      }
+    ]
+  },
+  {
+    "id": "47",
+    "question": "Mercado 47 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.19"
+      },
+      {
+        "outcome": "B",
+        "price": "0.22"
+      },
+      {
+        "outcome": "C",
+        "price": "0.22"
+      },
+      {
+        "outcome": "D",
+        "price": "0.12"
+      },
+      {
+        "outcome": "E",
+        "price": "0.18"
+      }
+    ]
+  },
+  {
+    "id": "48",
+    "question": "Mercado 48 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.12"
+      },
+      {
+        "outcome": "B",
+        "price": "0.17"
+      },
+      {
+        "outcome": "C",
+        "price": "0.13"
+      },
+      {
+        "outcome": "D",
+        "price": "0.19"
+      },
+      {
+        "outcome": "E",
+        "price": "0.15"
+      }
+    ]
+  },
+  {
+    "id": "49",
+    "question": "Mercado 49 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.17"
+      },
+      {
+        "outcome": "B",
+        "price": "0.22"
+      },
+      {
+        "outcome": "C",
+        "price": "0.2"
+      },
+      {
+        "outcome": "D",
+        "price": "0.28"
+      },
+      {
+        "outcome": "E",
+        "price": "0.28"
+      }
+    ]
+  },
+  {
+    "id": "50",
+    "question": "Mercado 50 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.42"
+      },
+      {
+        "outcome": "B",
+        "price": "0.56"
+      },
+      {
+        "outcome": "C",
+        "price": "0.4"
+      }
+    ]
+  },
+  {
+    "id": "51",
+    "question": "Mercado 51 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.31"
+      },
+      {
+        "outcome": "B",
+        "price": "0.25"
+      },
+      {
+        "outcome": "C",
+        "price": "0.17"
+      },
+      {
+        "outcome": "D",
+        "price": "0.28"
+      },
+      {
+        "outcome": "E",
+        "price": "0.25"
+      }
+    ]
+  },
+  {
+    "id": "52",
+    "question": "Mercado 52 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.27"
+      },
+      {
+        "outcome": "B",
+        "price": "0.39"
+      },
+      {
+        "outcome": "C",
+        "price": "0.39"
+      }
+    ]
+  },
+  {
+    "id": "53",
+    "question": "Mercado 53 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.22"
+      },
+      {
+        "outcome": "B",
+        "price": "0.33"
+      },
+      {
+        "outcome": "C",
+        "price": "0.31"
+      },
+      {
+        "outcome": "D",
+        "price": "0.31"
+      }
+    ]
+  },
+  {
+    "id": "54",
+    "question": "Mercado 54 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.39"
+      },
+      {
+        "outcome": "B",
+        "price": "0.24"
+      },
+      {
+        "outcome": "C",
+        "price": "0.39"
+      },
+      {
+        "outcome": "D",
+        "price": "0.34"
+      }
+    ]
+  },
+  {
+    "id": "55",
+    "question": "Mercado 55 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.21"
+      },
+      {
+        "outcome": "B",
+        "price": "0.23"
+      },
+      {
+        "outcome": "C",
+        "price": "0.24"
+      },
+      {
+        "outcome": "D",
+        "price": "0.19"
+      },
+      {
+        "outcome": "E",
+        "price": "0.17"
+      }
+    ]
+  },
+  {
+    "id": "56",
+    "question": "Mercado 56 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.15"
+      },
+      {
+        "outcome": "B",
+        "price": "0.32"
+      },
+      {
+        "outcome": "C",
+        "price": "0.24"
+      },
+      {
+        "outcome": "D",
+        "price": "0.16"
+      }
+    ]
+  },
+  {
+    "id": "57",
+    "question": "Mercado 57 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.32"
+      },
+      {
+        "outcome": "B",
+        "price": "0.18"
+      },
+      {
+        "outcome": "C",
+        "price": "0.17"
+      },
+      {
+        "outcome": "D",
+        "price": "0.26"
+      }
+    ]
+  },
+  {
+    "id": "58",
+    "question": "Mercado 58 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.36"
+      },
+      {
+        "outcome": "B",
+        "price": "0.24"
+      },
+      {
+        "outcome": "C",
+        "price": "0.44"
+      }
+    ]
+  },
+  {
+    "id": "59",
+    "question": "Mercado 59 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.3"
+      },
+      {
+        "outcome": "B",
+        "price": "0.19"
+      },
+      {
+        "outcome": "C",
+        "price": "0.3"
+      },
+      {
+        "outcome": "D",
+        "price": "0.21"
+      },
+      {
+        "outcome": "E",
+        "price": "0.32"
+      }
+    ]
+  },
+  {
+    "id": "60",
+    "question": "Mercado 60 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.21"
+      },
+      {
+        "outcome": "B",
+        "price": "0.2"
+      },
+      {
+        "outcome": "C",
+        "price": "0.23"
+      },
+      {
+        "outcome": "D",
+        "price": "0.24"
+      },
+      {
+        "outcome": "E",
+        "price": "0.27"
+      }
+    ]
+  },
+  {
+    "id": "61",
+    "question": "Mercado 61 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.14"
+      },
+      {
+        "outcome": "B",
+        "price": "0.16"
+      },
+      {
+        "outcome": "C",
+        "price": "0.21"
+      },
+      {
+        "outcome": "D",
+        "price": "0.23"
+      },
+      {
+        "outcome": "E",
+        "price": "0.13"
+      }
+    ]
+  },
+  {
+    "id": "62",
+    "question": "Mercado 62 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.5"
+      },
+      {
+        "outcome": "B",
+        "price": "0.24"
+      },
+      {
+        "outcome": "C",
+        "price": "0.45"
+      }
+    ]
+  },
+  {
+    "id": "63",
+    "question": "Mercado 63 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.19"
+      },
+      {
+        "outcome": "B",
+        "price": "0.21"
+      },
+      {
+        "outcome": "C",
+        "price": "0.12"
+      },
+      {
+        "outcome": "D",
+        "price": "0.22"
+      }
+    ]
+  },
+  {
+    "id": "64",
+    "question": "Mercado 64 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.22"
+      },
+      {
+        "outcome": "B",
+        "price": "0.34"
+      },
+      {
+        "outcome": "C",
+        "price": "0.37"
+      },
+      {
+        "outcome": "D",
+        "price": "0.2"
+      }
+    ]
+  },
+  {
+    "id": "65",
+    "question": "Mercado 65 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.16"
+      },
+      {
+        "outcome": "B",
+        "price": "0.29"
+      },
+      {
+        "outcome": "C",
+        "price": "0.28"
+      }
+    ]
+  },
+  {
+    "id": "66",
+    "question": "Mercado 66 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.26"
+      },
+      {
+        "outcome": "B",
+        "price": "0.27"
+      },
+      {
+        "outcome": "C",
+        "price": "0.36"
+      },
+      {
+        "outcome": "D",
+        "price": "0.25"
+      }
+    ]
+  },
+  {
+    "id": "67",
+    "question": "Mercado 67 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.25"
+      },
+      {
+        "outcome": "B",
+        "price": "0.11"
+      },
+      {
+        "outcome": "C",
+        "price": "0.2"
+      },
+      {
+        "outcome": "D",
+        "price": "0.25"
+      }
+    ]
+  },
+  {
+    "id": "68",
+    "question": "Mercado 68 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.31"
+      },
+      {
+        "outcome": "B",
+        "price": "0.45"
+      },
+      {
+        "outcome": "C",
+        "price": "0.36"
+      },
+      {
+        "outcome": "D",
+        "price": "0.22"
+      }
+    ]
+  },
+  {
+    "id": "69",
+    "question": "Mercado 69 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.32"
+      },
+      {
+        "outcome": "B",
+        "price": "0.27"
+      },
+      {
+        "outcome": "C",
+        "price": "0.24"
+      }
+    ]
+  },
+  {
+    "id": "70",
+    "question": "Mercado 70 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.41"
+      },
+      {
+        "outcome": "B",
+        "price": "0.45"
+      },
+      {
+        "outcome": "C",
+        "price": "0.27"
+      }
+    ]
+  },
+  {
+    "id": "71",
+    "question": "Mercado 71 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.25"
+      },
+      {
+        "outcome": "B",
+        "price": "0.41"
+      },
+      {
+        "outcome": "C",
+        "price": "0.33"
+      },
+      {
+        "outcome": "D",
+        "price": "0.28"
+      }
+    ]
+  },
+  {
+    "id": "72",
+    "question": "Mercado 72 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.16"
+      },
+      {
+        "outcome": "B",
+        "price": "0.25"
+      },
+      {
+        "outcome": "C",
+        "price": "0.27"
+      },
+      {
+        "outcome": "D",
+        "price": "0.14"
+      },
+      {
+        "outcome": "E",
+        "price": "0.16"
+      }
+    ]
+  },
+  {
+    "id": "73",
+    "question": "Mercado 73 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.19"
+      },
+      {
+        "outcome": "B",
+        "price": "0.13"
+      },
+      {
+        "outcome": "C",
+        "price": "0.1"
+      },
+      {
+        "outcome": "D",
+        "price": "0.16"
+      },
+      {
+        "outcome": "E",
+        "price": "0.18"
+      }
+    ]
+  },
+  {
+    "id": "74",
+    "question": "Mercado 74 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.32"
+      },
+      {
+        "outcome": "B",
+        "price": "0.27"
+      },
+      {
+        "outcome": "C",
+        "price": "0.23"
+      },
+      {
+        "outcome": "D",
+        "price": "0.3"
+      }
+    ]
+  },
+  {
+    "id": "75",
+    "question": "Mercado 75 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.2"
+      },
+      {
+        "outcome": "B",
+        "price": "0.27"
+      },
+      {
+        "outcome": "C",
+        "price": "0.18"
+      },
+      {
+        "outcome": "D",
+        "price": "0.16"
+      }
+    ]
+  },
+  {
+    "id": "76",
+    "question": "Mercado 76 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.29"
+      },
+      {
+        "outcome": "B",
+        "price": "0.39"
+      },
+      {
+        "outcome": "C",
+        "price": "0.35"
+      }
+    ]
+  },
+  {
+    "id": "77",
+    "question": "Mercado 77 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.27"
+      },
+      {
+        "outcome": "B",
+        "price": "0.19"
+      },
+      {
+        "outcome": "C",
+        "price": "0.39"
+      },
+      {
+        "outcome": "D",
+        "price": "0.34"
+      }
+    ]
+  },
+  {
+    "id": "78",
+    "question": "Mercado 78 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.15"
+      },
+      {
+        "outcome": "B",
+        "price": "0.18"
+      },
+      {
+        "outcome": "C",
+        "price": "0.17"
+      },
+      {
+        "outcome": "D",
+        "price": "0.22"
+      }
+    ]
+  },
+  {
+    "id": "79",
+    "question": "Mercado 79 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.29"
+      },
+      {
+        "outcome": "B",
+        "price": "0.33"
+      },
+      {
+        "outcome": "C",
+        "price": "0.4"
+      }
+    ]
+  },
+  {
+    "id": "80",
+    "question": "Mercado 80 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.25"
+      },
+      {
+        "outcome": "B",
+        "price": "0.44"
+      },
+      {
+        "outcome": "C",
+        "price": "0.37"
+      },
+      {
+        "outcome": "D",
+        "price": "0.21"
+      }
+    ]
+  },
+  {
+    "id": "81",
+    "question": "Mercado 81 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.29"
+      },
+      {
+        "outcome": "B",
+        "price": "0.36"
+      },
+      {
+        "outcome": "C",
+        "price": "0.42"
+      }
+    ]
+  },
+  {
+    "id": "82",
+    "question": "Mercado 82 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.41"
+      },
+      {
+        "outcome": "B",
+        "price": "0.18"
+      },
+      {
+        "outcome": "C",
+        "price": "0.39"
+      },
+      {
+        "outcome": "D",
+        "price": "0.19"
+      }
+    ]
+  },
+  {
+    "id": "83",
+    "question": "Mercado 83 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.24"
+      },
+      {
+        "outcome": "B",
+        "price": "0.28"
+      },
+      {
+        "outcome": "C",
+        "price": "0.28"
+      }
+    ]
+  },
+  {
+    "id": "84",
+    "question": "Mercado 84 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.15"
+      },
+      {
+        "outcome": "B",
+        "price": "0.25"
+      },
+      {
+        "outcome": "C",
+        "price": "0.31"
+      },
+      {
+        "outcome": "D",
+        "price": "0.15"
+      }
+    ]
+  },
+  {
+    "id": "85",
+    "question": "Mercado 85 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.22"
+      },
+      {
+        "outcome": "B",
+        "price": "0.32"
+      },
+      {
+        "outcome": "C",
+        "price": "0.29"
+      },
+      {
+        "outcome": "D",
+        "price": "0.26"
+      },
+      {
+        "outcome": "E",
+        "price": "0.23"
+      }
+    ]
+  },
+  {
+    "id": "86",
+    "question": "Mercado 86 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.37"
+      },
+      {
+        "outcome": "B",
+        "price": "0.4"
+      },
+      {
+        "outcome": "C",
+        "price": "0.59"
+      }
+    ]
+  },
+  {
+    "id": "87",
+    "question": "Mercado 87 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.14"
+      },
+      {
+        "outcome": "B",
+        "price": "0.29"
+      },
+      {
+        "outcome": "C",
+        "price": "0.28"
+      },
+      {
+        "outcome": "D",
+        "price": "0.19"
+      },
+      {
+        "outcome": "E",
+        "price": "0.31"
+      }
+    ]
+  },
+  {
+    "id": "88",
+    "question": "Mercado 88 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.44"
+      },
+      {
+        "outcome": "B",
+        "price": "0.24"
+      },
+      {
+        "outcome": "C",
+        "price": "0.42"
+      },
+      {
+        "outcome": "D",
+        "price": "0.24"
+      }
+    ]
+  },
+  {
+    "id": "89",
+    "question": "Mercado 89 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.17"
+      },
+      {
+        "outcome": "B",
+        "price": "0.17"
+      },
+      {
+        "outcome": "C",
+        "price": "0.11"
+      },
+      {
+        "outcome": "D",
+        "price": "0.2"
+      },
+      {
+        "outcome": "E",
+        "price": "0.1"
+      }
+    ]
+  },
+  {
+    "id": "90",
+    "question": "Mercado 90 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.42"
+      },
+      {
+        "outcome": "B",
+        "price": "0.2"
+      },
+      {
+        "outcome": "C",
+        "price": "0.3"
+      },
+      {
+        "outcome": "D",
+        "price": "0.31"
+      }
+    ]
+  },
+  {
+    "id": "91",
+    "question": "Mercado 91 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.3"
+      },
+      {
+        "outcome": "B",
+        "price": "0.3"
+      },
+      {
+        "outcome": "C",
+        "price": "0.3"
+      }
+    ]
+  },
+  {
+    "id": "92",
+    "question": "Mercado 92 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.48"
+      },
+      {
+        "outcome": "B",
+        "price": "0.35"
+      },
+      {
+        "outcome": "C",
+        "price": "0.43"
+      }
+    ]
+  },
+  {
+    "id": "93",
+    "question": "Mercado 93 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.35"
+      },
+      {
+        "outcome": "B",
+        "price": "0.14"
+      },
+      {
+        "outcome": "C",
+        "price": "0.2"
+      },
+      {
+        "outcome": "D",
+        "price": "0.19"
+      },
+      {
+        "outcome": "E",
+        "price": "0.26"
+      }
+    ]
+  },
+  {
+    "id": "94",
+    "question": "Mercado 94 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.15"
+      },
+      {
+        "outcome": "B",
+        "price": "0.18"
+      },
+      {
+        "outcome": "C",
+        "price": "0.11"
+      },
+      {
+        "outcome": "D",
+        "price": "0.19"
+      },
+      {
+        "outcome": "E",
+        "price": "0.16"
+      }
+    ]
+  },
+  {
+    "id": "95",
+    "question": "Mercado 95 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.36"
+      },
+      {
+        "outcome": "B",
+        "price": "0.15"
+      },
+      {
+        "outcome": "C",
+        "price": "0.3"
+      },
+      {
+        "outcome": "D",
+        "price": "0.19"
+      },
+      {
+        "outcome": "E",
+        "price": "0.32"
+      }
+    ]
+  },
+  {
+    "id": "96",
+    "question": "Mercado 96 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.27"
+      },
+      {
+        "outcome": "B",
+        "price": "0.32"
+      },
+      {
+        "outcome": "C",
+        "price": "0.34"
+      },
+      {
+        "outcome": "D",
+        "price": "0.41"
+      }
+    ]
+  },
+  {
+    "id": "97",
+    "question": "Mercado 97 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.26"
+      },
+      {
+        "outcome": "B",
+        "price": "0.3"
+      },
+      {
+        "outcome": "C",
+        "price": "0.27"
+      },
+      {
+        "outcome": "D",
+        "price": "0.44"
+      }
+    ]
+  },
+  {
+    "id": "98",
+    "question": "Mercado 98 (arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.21"
+      },
+      {
+        "outcome": "B",
+        "price": "0.2"
+      },
+      {
+        "outcome": "C",
+        "price": "0.14"
+      },
+      {
+        "outcome": "D",
+        "price": "0.18"
+      },
+      {
+        "outcome": "E",
+        "price": "0.16"
+      }
+    ]
+  },
+  {
+    "id": "99",
+    "question": "Mercado 99 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.23"
+      },
+      {
+        "outcome": "B",
+        "price": "0.15"
+      },
+      {
+        "outcome": "C",
+        "price": "0.13"
+      },
+      {
+        "outcome": "D",
+        "price": "0.27"
+      },
+      {
+        "outcome": "E",
+        "price": "0.26"
+      }
+    ]
+  },
+  {
+    "id": "100",
+    "question": "Mercado 100 (sin arbitraje)",
+    "bets": [
+      {
+        "outcome": "A",
+        "price": "0.29"
+      },
+      {
+        "outcome": "B",
+        "price": "0.23"
+      },
+      {
+        "outcome": "C",
+        "price": "0.16"
+      },
+      {
+        "outcome": "D",
+        "price": "0.22"
+      },
+      {
+        "outcome": "E",
+        "price": "0.29"
+      }
+    ]
+  }
+]
