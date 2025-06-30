@@ -5,7 +5,7 @@ import json
 
 def main(test=False):
     for possible_arbitrage in utils.paginated_arbitrage_search(test=test):
-        print("Mercados con posible arbitraje:\n")
+        print("Markets with possible arbitrage:\n")
         for market in possible_arbitrage:
             prices = [float(bet["price"]) for bet in market["bets"]]
             stakes, profits = utils.calculate_arbitrage_bets(prices, total=100)
@@ -14,8 +14,8 @@ def main(test=False):
                 print(f"Market: {market['question']}")
                 for outcome, stake, profit in zip(market["bets"], stakes, profits):
                     print(
-                        f"  Apostar ${stake:.2f} a '{outcome['outcome']}' (prob: {outcome['price']}) -> profit si gana: ${profit:.2f}")
-                print(f"  Profit neto garantizado: ${min_profit:.2f}\n")
+                        f"  Bet ${stake:.2f} on '{outcome['outcome']}' (prob: {outcome['price']}) -> profit if wins: ${profit:.2f}")
+                print(f"  Guaranteed net profit: ${min_profit:.2f}\n")
         print("="*50)
 
 

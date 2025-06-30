@@ -1,26 +1,26 @@
 # Betting Arbitrage Detector
 
-Este proyecto permite detectar oportunidades de **arbitraje** en mercados de predicción tipo Polymarket, calcular la combinación óptima de apuestas para maximizar la ganancia y probar el algoritmo tanto con datos reales de Polymarket como con datasets locales de ejemplo.
+This project allows you to detect **arbitrage** opportunities in prediction markets like Polymarket, calculate the optimal combination of bets to maximize profit, and test the algorithm using both real Polymarket data and local example datasets.
 
 ---
 
-## 🚀 Instalación y Primeros Pasos
+## 🚀 Installation and Getting Started
 
-1. **Clona el repositorio:**
+1. **Clone the repository:**
 
    ```bash
    git clone https://github.com/MauroPerna/betting-arbitrage.git
    cd betting-arbitrage
    ```
 
-2. **Crea un entorno virtual con conda:**
+2. **Create a virtual environment with conda:**
 
    ```bash
    conda create -n betting-prediction-venv python=3.10
    conda activate betting-prediction-venv
    ```
 
-3. **Instala las dependencias:**
+3. **Install the dependencies:**
 
    ```bash
    pip install -r requirements.txt
@@ -28,28 +28,28 @@ Este proyecto permite detectar oportunidades de **arbitraje** en mercados de pre
 
 ---
 
-## 🏃‍♂️ Cómo correr el proyecto
+## 🏃‍♂️ How to Run the Project
 
-### 1. **Probar con datos de ejemplo locales**
+### 1. **Test with local example data**
 
-Por defecto, el script principal (`main.py`) se puede ejecutar en modo test usando los datos del archivo `data/data.json`.
+By default, the main script (`main.py`) can be run in test mode using the data from the file `data/data.json`.
 
 ```python
 if __name__ == '__main__':
-    main(test=True)    # Modo test, usa el JSON local
+    main(test=True)    # Test mode, uses local JSON
 ```
 
 ```bash
 python main.py
 ```
 
-### 2. **Probar con datos reales de Polymarket**
+### 2. **Test with real Polymarket data**
 
-Para usar la API de Polymarket y buscar arbitraje en tiempo real:
+To use the Polymarket API and search for real-time arbitrage:
 
 ```python
 if __name__ == '__main__':
-    main(test=False)   # Modo Polymarket, usa la API real
+    main(test=False)   # Polymarket mode, uses the real API
 ```
 
 ```bash
@@ -58,61 +58,61 @@ python main.py
 
 ---
 
-## 📚 Principio de Arbitraje (Explicación Teórica)
+## 📚 Arbitrage Principle (Theoretical Explanation)
 
-El **arbitraje** consiste en aprovechar diferencias de precios/probabilidades en un mercado para asegurar una ganancia sin riesgo, apostando en todos los posibles resultados de un evento.
+**Arbitrage** consists of taking advantage of price/probability differences in a market to secure a risk-free profit by betting on all possible outcomes of an event.
 
-### **¿Cómo funciona el arbitraje en Polymarket?**
+### **How does arbitrage work in Polymarket?**
 
-En Polymarket, el "price" de cada outcome representa la **probabilidad implícita** (ejemplo: 0.18 equivale al 18%).
-Si la suma de las probabilidades de todos los outcomes de un mercado es **menor a 1**, existe una oportunidad teórica de arbitraje.
+In Polymarket, the "price" for each outcome represents its **implied probability** (e.g., 0.18 means 18%).
+If the sum of the probabilities of all outcomes in a market is **less than 1**, there is a theoretical opportunity for arbitrage.
 
-#### **¿Por qué?**
+#### **Why?**
 
-Porque podés distribuir tu dinero entre todos los outcomes de manera que, sin importar el resultado, tu ganancia sea igual y positiva.
+Because you can allocate your funds across all outcomes so that, regardless of the result, your profit is equal and positive.
 
 ---
 
-## 🧮 **Fórmula para el reparto óptimo de apuestas**
+## 🧮 **Formula for the Optimal Bet Distribution**
 
-Sea un evento con `n` posibles resultados y precios (probabilidades) $p_1, p_2, ..., p_n$, y un monto total a apostar $T$ (por ejemplo, \$100):
+Let an event have `n` possible outcomes with prices (probabilities) \$p\_1, p\_2, ..., p\_n\$, and a total amount to bet \$T\$ (e.g., \$100):
 
-### **Cómo calcular cuánto apostar a cada outcome:**
+### **How to calculate how much to bet on each outcome:**
 
-Para cada outcome $i$:
+For each outcome \$i\$:
 
 $$
 \text{stake}_i = \frac{T \cdot (1 - p_i)}{\sum_{j=1}^n (1 - p_j)}
 $$
 
-Donde:
+Where:
 
-* $p_i$ es el "price" (probabilidad implícita) del outcome $i$
-* $T$ es el total a apostar (ejemplo, \$100)
-* $\sum_{j=1}^n (1 - p_j)$ es la suma de todas las "ventajas relativas"
+* \$p\_i\$ is the "price" (implied probability) of outcome \$i\$
+* \$T\$ is the total amount to bet (e.g., \$100)
+* \$\sum\_{j=1}^n (1 - p\_j)\$ is the sum of all the “relative advantages”
 
 ---
 
-### **¿Cuánto gano? (Profit garantizado)**
+### **How much do I profit? (Guaranteed Profit)**
 
-La ganancia neta en caso de que gane el outcome $i$ es:
+The net profit if outcome \$i\$ wins is:
 
 $$
 \text{profit}_i = \frac{\text{stake}_i}{p_i} - T
 $$
 
-El **profit neto garantizado** será el **mínimo** de todos los $\text{profit}_i$ (debe ser mayor que cero para que haya arbitraje real).
+The **guaranteed net profit** will be the **minimum** of all \$\text{profit}\_i\$ (it must be greater than zero for there to be real arbitrage).
 
 ---
 
-## ⚠️ Notas
+## ⚠️ Notes
 
-* Para arbitraje real, la suma de probabilidades debe ser **estrictamente menor que 1** y el profit mínimo positivo.
-* El script imprime la mejor combinación de apuestas y la ganancia asegurada (si existe).
+* For real arbitrage, the sum of probabilities must be **strictly less than 1** and the minimum profit must be positive.
+* The script prints the best combination of bets and the guaranteed profit (if it exists).
 
 ---
 
-## 📦 Estructura del proyecto
+## 📦 Project Structure
 
 ```
 betting-arbitrage/
@@ -123,4 +123,4 @@ betting-arbitrage/
     └── data.json
 ```
 
-
+---
