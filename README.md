@@ -109,7 +109,7 @@ $$
 \text{profit}_i = \frac{\text{stake}_i}{p_i} - T
 $$
 
-The **guaranteed net profit** will be the **minimum** of all \$\text{profit}\_i\$ (it must be greater than zero for there to be real arbitrage).
+The **guaranteed net profit** will be the **minimum** of all `profit_i` (it must be greater than zero for there to be real arbitrage).
 
 ---
 
