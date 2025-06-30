@@ -85,6 +85,7 @@ $$
 \text{stake}_i = \frac{T \cdot (1 - p_i)}{\sum_{j=1}^n (1 - p_j)}
 $$
 
+
 Where:
 
 $$
