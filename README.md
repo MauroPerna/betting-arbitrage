@@ -87,9 +87,17 @@ $$
 
 Where:
 
-* \$p\_i\$ is the "price" (implied probability) of outcome \$i\$
-* \$T\$ is the total amount to bet (e.g., \$100)
-* \$\sum\_{j=1}^n (1 - p\_j)\$ is the sum of all the “relative advantages”
+$$
+p_i \text{ is the price (implied probability) of outcome } i
+$$
+
+$$
+T \text{ is the total amount to bet (e.g., 100)}
+$$
+
+$$
+\sum_{j=1}^n (1 - p_j) \text{ is the sum of all the relative advantages}
+$$
 
 ---
 
